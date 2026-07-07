@@ -25,7 +25,7 @@ def ask_silicon(question):
     
     }
     headers = {
-        "Authorization": "Bearer sk-vvdcfuscekqgyfnomfzpjbvoovipmhflygqlcitumbjgczpq",
+        "Authorization": "Bearer api_key",
         "Content-Type": "application/json"
     }
     
